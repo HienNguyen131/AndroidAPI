@@ -1,0 +1,70 @@
+{
+  "documents": [
+    {
+      "name": "projects/coffeeshopapp-9eda4/databases/(default)/documents/foods/CLUr1ddt20BtWWwZpEXL",
+      "fields": {
+        "description": {
+          "stringValue": "Phin Sữa Đá hương vị cà phê Việt Nam đích thực!"
+        },
+        "imageUrl ": {
+          "stringValue": "https://banhtt.com.vn/upload/files/milk-coffee-ca-phe-sua-vn.png"
+        },
+        "name": {
+          "stringValue": "Cà phê sữa"
+        },
+        "price": {
+          "integerValue": "25000"
+        },
+        "isavailbable": {
+          "booleanValue": true
+        }
+      },
+      "createTime": "2025-03-17T12:47:30.559033Z",
+      "updateTime": "2025-03-18T00:25:01.061862Z"
+    },
+    {
+      "name": "projects/coffeeshopapp-9eda4/databases/(default)/documents/foods/J6HLE0o1HZwKz4FkRuvs",
+      "fields": {
+        "name": {
+          "stringValue": "Trà đào"
+        },
+        "isavailbable": {
+          "booleanValue": true
+        },
+        "imageUrl ": {
+          "stringValue": "https://cafedalat.net/wp-content/uploads/2020/10/tra-dao-da.png"
+        },
+        "price": {
+          "integerValue": "30000"
+        },
+        "description": {
+          "stringValue": "Trà Thạch Đào với sự hoà quyện của hương thơm đào và độ thơm béo của sữa. Thêm ngon cùng topping miếng đào và thạch đào dai giòn"
+        }
+      },
+      "createTime": "2025-03-18T14:06:43.479634Z",
+      "updateTime": "2025-03-18T14:06:43.479634Z"
+    },
+    {
+      "name": "projects/coffeeshopapp-9eda4/databases/(default)/documents/foods/k6J8jz6Sm8dHxiGQcltg",
+      "fields": {
+        "isavailbable": {
+          "booleanValue": true
+        },
+        "name": {
+          "stringValue": "Freeze Trà Xanh"
+        },
+        "imageUrl ": {
+          "stringValue": "https://bizweb.dktcdn.net/thumb/1024x1024/100/487/455/products/freeze-tra-xanh-1698984273180.jpg?v=1724205776357"
+        },
+        "description": {
+          "stringValue": "Freeze Trà Xanh món ngon mát lạnh từ vị trà xanh thêm thạch giòn thơm và kem béo ngậy. Phần trang trí có thể bị ảnh hưởng khi vận chuyển"
+        },
+        "price": {
+          "integerValue": "35000"
+        }
+      },
+      "createTime": "2025-03-18T14:09:04.858932Z",
+      "updateTime": "2025-03-18T14:09:04.858932Z"
+    }
+  ]
+}
